@@ -1,0 +1,9 @@
+.texto1, 
+.oferta{
+  border: 3px solid red;
+  padding: 2rem
+}
+.oferta {
+  border: 3px solid green;
+  padding: 2rem
+}
